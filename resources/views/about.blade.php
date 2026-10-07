@@ -10,7 +10,7 @@
     <title>About us</title>
 </head>
 <body>
-<h1>Info about <?=$company?></h1>
+<h1>Info about {{$company}}</h1>
 <p>I just made this page, let's hope it works</p>
 </body>
 </html>
